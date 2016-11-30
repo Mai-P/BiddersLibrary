@@ -1,0 +1,19 @@
+Delete Rows and columns that are not needed
+format as table and sort by names A-Z
+Transpose
+Word doc
+Mailings tab
+start Mail Merge
+Labels
+Avery us letter 
+5163 
+Select recipient 
+Use an existing list
+Find list
+Insert merge field
+Hit enter between rows
+Update labels
+Preview results
+Finish and merge, print
+Properties manual feed tray 1
+Face down labels
